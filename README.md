@@ -1,2 +1,2 @@
-# 2048_cpp
-a console game of 2048 based C++
+# 2048
+a console game of 2048 based on C++
