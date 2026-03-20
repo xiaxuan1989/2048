@@ -1,2 +1,2 @@
 # 2048
-a console game of 2048 based on C++
+console version of 2048 in C++, but with effects of animation
